@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sergiorgiraldo/sergiorgiraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,15 +32,14 @@ Hi 👋, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, cur
 </p>
 <br>
 
-<hr>
 <a><h2>Stats</h2></a>
 
-<p align="center">
+<p>
 <span>
 	<img src="https://github-readme-stats.vercel.app/api?username=sergiorgiraldo&include_all_commits=false&count_private=true&hide_border=true&theme=light&show_icons=true" />
 </span>
 </p>
 
-<p align="center">
+<p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorgiraldo&layout=compact&custom_title=Most%20used%20languages&langs_count=15&include_all_commits=true&hide_progress=true&hide_border=true&theme=light&hide=php,jupyter%20Notebook,matlab,scss,css,c,html&hide_border=true&theme=light&show_icons=true">
 </p>
