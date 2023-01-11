@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 	Welcome :smile:
 </h1>
 
-<br >
-Hi 👋, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currently living in The Netherlands. <br>
-
+<p>
+Hi 👋, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currently living in The Netherlands.
+</p>
 <p>
 <a href="https://www.giral.do">
  www.giral.do
