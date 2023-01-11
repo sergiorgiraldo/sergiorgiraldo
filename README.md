@@ -22,12 +22,16 @@ Here are some ideas to get you started:
 <br >
 Hi 👋, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currently living in The Netherlands. <br>
 
+<p>
 <a href="https://www.giral.do">
  www.giral.do
 </a>
+</p>
+<p>
 <a href="https://www.linkedin.com/in/sergiorgiraldo">
   Linkedin
 </a>
+</p>
 <br>
 
 <hr>
@@ -42,9 +46,3 @@ Hi 👋, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, cur
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorgiraldo&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=light&hide=">
 </p>
-
- 
-<h4 align="center">Lines of Code per language in the last year only</h4>
-<p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/sergiorgiraldo/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=light">
-</p> 
