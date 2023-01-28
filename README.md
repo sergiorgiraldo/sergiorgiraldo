@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-Hi 👋, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currently living in The Netherlands.
+Hi, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currently living in The Netherlands. 
+	
+I have a degree in Physics and my masters studied the relationship between Design Thinking and Software Architecture.
 </p>
 <p>
 <a href="https://www.giral.do">
