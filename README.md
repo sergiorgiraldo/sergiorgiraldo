@@ -37,13 +37,13 @@ I have a degree in Physics and my masters studied the relationship between Desig
 <a><h2>Contributions</h2></a>
 
 - Felix: https://github.com/kyoheiu/felix
-	Rust
+	- Rust
 - Linkace: https://github.com/kovah/LinkAce/
-  	PHP
+  	- PHP
 - PrivateBin: https://github.com/PrivateBin/
-  	PHP
+  	- PHP
 - Outline: https://github.com/outline/outline
-	NodeJS   
+	- NodeJS   
 
 <a><h2>Stats</h2></a>
 
