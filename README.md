@@ -23,12 +23,12 @@ Hi, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currentl
 I have a degree in Physics and my masters studied the relationship between Design Thinking and Software Architecture.
 </p>
 <p>
-<a href="https://www.giral.do">
+<a href="https://www.giral.do" target="_blank">
  www.giral.do
 </a>
 </p>
 <p>
-<a href="https://www.linkedin.com/in/sergiorgiraldo">
+<a href="https://www.linkedin.com/in/sergiorgiraldo" target="_blank">
   Linkedin
 </a>
 </p>
@@ -38,7 +38,7 @@ I have a degree in Physics and my masters studied the relationship between Desig
 
 While 2022 was the year I gave the goal to learn Rust, 2023 was about getting knowledge on the JS trends.
 
-<a href="https://www.githubwrapped.io/sergiorgiraldo/2023">My 2023 wrapped</a>
+<a href="https://www.githubwrapped.io/sergiorgiraldo/2023" target="_blank">My 2023 wrapped</a>
 
 <a><h2>Stats</h2></a>
 
