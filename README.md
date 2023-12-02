@@ -34,6 +34,12 @@ I have a degree in Physics and my masters studied the relationship between Desig
 </p>
 <br>
 
+<a><h2>Wrapped</h2></a>
+
+While 2022 was the year I gave the goal to learn Rust, 2023 was about getting knowledge on the JS trends.
+
+<a href="https://www.githubwrapped.io/sergiorgiraldo/2023">My 2023 wrapped</a>
+
 <a><h2>Stats</h2></a>
 
 <p>
