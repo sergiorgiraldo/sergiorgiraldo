@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-Hi, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, currently living in The Netherlands. 
+Hi, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, living in The Netherlands. 
 	
 I have a degree in Physics and my masters studied the relationship between Design Thinking and Software Architecture.
 </p>
@@ -33,12 +33,6 @@ I have a degree in Physics and my masters studied the relationship between Desig
 </a>
 </p>
 <br>
-
-<a><h2>Wrapped</h2></a>
-
-While 2022 was the year I gave the goal to learn Rust, 2023 was about getting knowledge on the JS trends.
-
-<a href="https://www.githubwrapped.io/sergiorgiraldo/2023" target="_blank">My 2023 wrapped</a>
 
 <a><h2>Stats</h2></a>
 
