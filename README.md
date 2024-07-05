@@ -3,9 +3,9 @@
 </h1>
 
 <p>
-	Hi, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, living in The Netherlands. 
+Hi, I''m Sergio Giraldo, an IT lead and software architect, from Brazil, living in The Netherlands. 
 	
-	I have a degree in Physics and my masters studied the relationship between Design Thinking and Software Architecture.
+I have a degree in Physics and my masters studied the relationship between Design Thinking and Software Architecture.
 </p>
 
 <p>
