@@ -15,9 +15,9 @@
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/sergiorgiraldo" target="_blank">
-  Linkedin
-</a>
+	<a href="https://www.linkedin.com/in/sergiorgiraldo" target="_blank">
+  		Linkedin
+	</a>
 </p>
 
 <br />
