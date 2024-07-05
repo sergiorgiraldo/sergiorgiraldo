@@ -22,7 +22,7 @@
 
 <br />
 
-<a><h2>Stats</h2></a>
+<h2>Stats</h2>
 
 <p>
 <span>
