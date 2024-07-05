@@ -22,7 +22,9 @@
 
 <br />
 
-<h2>Stats</h2>
+<h2>
+	Stats
+</h2>
 
 <p>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sergiorgiraldo&include_all_commits=false&count_private=true&hide_border=true&theme=light&show_icons=true" />
