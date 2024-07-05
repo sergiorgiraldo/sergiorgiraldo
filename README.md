@@ -1,7 +1,6 @@
 <h1 align="center">
-	Welcome :smile: 
+	Welcome :smile:
 </h1>
-
 <p>
 Hi, I'm Sergio Giraldo, an IT lead and software architect, from Brazil, living in The Netherlands. 
 	
@@ -17,7 +16,8 @@ I have a degree in Physics and my masters studied the relationship between Desig
   Linkedin
 </a>
 </p>
-<br>
+
+<br />
 
 <a><h2>Stats</h2></a>
 
