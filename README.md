@@ -33,3 +33,13 @@ I have a degree in Physics and my masters studied the relationship between Desig
 <p>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiorgiraldo&layout=compact&custom_title=Most%20used%20languages&langs_count=15&include_all_commits=true&hide_progress=true&hide_border=true&theme=light&hide=php,jupyter%20Notebook,matlab,scss,css,c,html&hide_border=true&theme=light&show_icons=true">
 </p>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sergiorgiraldo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sergiorgiraldo"
+    width="600"
+    height="120"
+  />
+</a>
+  
