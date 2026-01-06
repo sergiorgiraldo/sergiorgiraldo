@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-Hi, I''m Sergio Giraldo, an IT lead and software architect from Brazil, living in The Netherlands. 
+Hi, I'm Sergio Giraldo, an IT lead and software architect from Brazil, living in The Netherlands. 
 	
 I have a BSC in Physics and my MSC studied the relationship between Design Thinking and Software Architecture.
 </p>
