@@ -19,6 +19,7 @@ I have a BSC in Physics and my MSC studied the relationship between Design Think
   		Linkedin
 	</a>
 </p>
+<!--
 
 <br />
 
@@ -26,7 +27,6 @@ I have a BSC in Physics and my MSC studied the relationship between Design Think
 	Stats
 </h2>
 
-<!--
 <p>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sergiorgiraldo&include_all_commits=false&count_private=true&hide_border=true&theme=light&show_icons=true" />
 </p>
@@ -34,7 +34,7 @@ I have a BSC in Physics and my MSC studied the relationship between Design Think
 <p>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiorgiraldo&layout=compact&custom_title=Most%20used%20languages&langs_count=15&include_all_commits=true&hide_progress=true&hide_border=true&theme=light&hide=php,jupyter%20Notebook,matlab,scss,css,c,html&hide_border=true&theme=light&show_icons=true">
 </p>
--->
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=sergiorgiraldo" />
 </p>
+-->
